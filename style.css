@@ -1,0 +1,83 @@
+  .jumbotron{
+    background-image: url('Bali2.png');
+    background-size: cover;
+    text-align : center ;
+    height: 800px;
+  }
+  .jumbotron h1 {
+    position: absolute;
+    left: 476px;
+    right: 476px;
+    top: 223px;
+    bottom: 329px;
+    color : white;
+      
+    font-family: Pacifico;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 84px;
+    
+    }
+  span{
+      color: #FCB371;
+    }
+  .jumbotron p {
+    position: absolute;
+    width: 124px;
+    height: 17px;
+    left: 700px;
+    right: 578px;
+    top: 405px;
+    color : white;
+    
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+    }
+.jumbotron .container a{
+    box-sizing: border-box;
+    background-color: transparent;
+    position: absolute;
+    width: 156px;
+    height: 46px;
+    left: 577px;
+    right: 547px;
+    top: 481px;
+    text-align: center;
+    
+    border: 2px solid #FCB371;
+    border-radius: 6px;
+}
+.container a{
+    box-sizing: border-box;
+    background-color: #FCB371 ;
+    position: absolute;
+    width: 156px;
+    height: 46px;
+    left: 777px;
+    right: 547px;
+    top: 481px;
+    text-align : center;
+    
+    border: 2px solid #FCB371;
+    border-radius: 6px;
+}
+  /* h2 {
+    position: absolute;
+    left: 476px;
+    right: 476px;
+    top: 300px;
+    bottom: 200px;
+    color : #FCB371;
+      
+    font-family: Pacifico;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 84px;
+    text-align: center;
+    } */
